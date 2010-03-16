@@ -1,0 +1,5 @@
+#summary Possible improvements for the audio sharing protocol
+#labels Phase-Requirements
+
+* Possibility to exchange multiple files in the pasteboard
+* Generic audio file meta-data tagging
