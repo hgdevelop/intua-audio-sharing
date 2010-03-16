@@ -1,0 +1,22 @@
+#summary List of application implementing the UIPasteboardAudio
+#labels Featured
+
+= Already compatible apps =
+
+|| *Application* || *Company* || *Compatible version* ||
+|| BeatMaker || INTUA || 1.3.5+ ||
+|| BassLine || Markus Waldboth || 2.1+ ||
+|| DrumTrack8 || Simple Is Beautiful || 1.8+ ||
+|| AudioView || Tibor Horvath || 1.1+ ||
+|| ThumbJam || Jesse Chappell || 1.1.0+ ||
+||  Argon || iceGear || 1.2.0+ ||
+
+= Pending apps =
+
+|| *Application* || *Company* ||
+|| NLog || Rolf Wöhrmann ||
+|| MultiTrack || Harmonicdog ||
+|| Noise.IO Pro || Amidio ||
+|| InstantBeat || Instant Binary AB ||
+
+List initially built thanks to the Palm Sound blog [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
