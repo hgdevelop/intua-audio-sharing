@@ -1,3 +1,6 @@
+#summary UIPasteboardAudio LICENSE
+#labels Phase-Design
+
 *UIPasteboardAudio* - (c) INTUA s.a.r.l., 2010
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
