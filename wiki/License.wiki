@@ -1,4 +1,4 @@
-#summary UIPasteboardAudio MIT license
+#summary The open standard for sharing audio data in Apple iPhone OS application MIT license
 #labels Phase-Design
 
 Copyright (c) 2010 INTUA s.à.r.l.
