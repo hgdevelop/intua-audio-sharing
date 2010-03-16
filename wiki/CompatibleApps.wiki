@@ -3,13 +3,13 @@
 
 = Already compatible apps =
 
-|| *Application* || *Company* || *Compatible version* ||
-|| BeatMaker || INTUA || 1.3.5+ ||
-|| BassLine || Markus Waldboth || 2.1+ ||
-|| DrumTrack8 || Simple Is Beautiful || 1.8+ ||
-|| AudioView || Tibor Horvath || 1.1+ ||
-|| ThumbJam || Jesse Chappell || 1.1.0+ ||
-||  Argon || iceGear || 1.2.0+ ||
+|| *Application* || *Company* || *Compatible version* || *App Store link * ||
+|| BeatMaker || INTUA || 1.3.5+ || http://itunes.apple.com/us/app/beatmaker/id285512415?mt=8 ||
+|| BassLine || Markus Waldboth || 2.1+ || http://itunes.apple.com/us/app/bassline/id298147000?mt=8 ||
+|| DrumTrack8 || Simple Is Beautiful || 1.8+ || http://itunes.apple.com/us/app/drumtrack8/id313153702?mt=8 ||
+|| AudioView || Tibor Horvath || 1.1+ || http://itunes.apple.com/us/app/audioview/id333216367?mt=8 ||
+|| ThumbJam || Jesse Chappell || 1.1.0+ || http://itunes.apple.com/us/app/thumbjam/id338977566?mt=8 ||
+||  Argon || iceGear || 1.2.0+ || http://itunes.apple.com/us/app/argon-synth/id347507436?mt=8 ||
 
 = Pending apps =
 
