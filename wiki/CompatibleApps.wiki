@@ -7,7 +7,7 @@
 || BeatMaker || 1.3.5+ || YES || YES || INTUA || http://itunes.apple.com/us/app/beatmaker/id285512415?mt=8 ||
 || BassLine || 2.1+ || YES || NO || Markus Waldboth || http://itunes.apple.com/us/app/bassline/id298147000?mt=8 ||
 || DrumTrack8 || 1.8+ || YES || NO || Simple Is Beautiful || http://itunes.apple.com/us/app/drumtrack8/id313153702?mt=8 ||
-|| AudioView || 1.1+ || YES || NO || Tibor Horvath || http://itunes.apple.com/us/app/audioview/id333216367?mt=8 ||
+|| AudioView || 1.1+ || YES || YES || Tibor Horvath || http://itunes.apple.com/us/app/audioview/id333216367?mt=8 ||
 || ThumbJam || 1.1.0+ || YES || NO || Jesse Chappell || http://itunes.apple.com/us/app/thumbjam/id338977566?mt=8 ||
 ||  Argon || 1.2.0+ || YES || NO || iceGear || http://itunes.apple.com/us/app/argon-synth/id347507436?mt=8 ||
 
