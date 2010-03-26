@@ -11,6 +11,7 @@
 || ThumbJam || 1.1.0+ || YES || NO || Jesse Chappell || http://itunes.apple.com/us/app/thumbjam/id338977566?mt=8 ||
 ||  Argon || 1.2.0+ || YES || NO || iceGear || http://itunes.apple.com/us/app/argon-synth/id347507436?mt=8 ||
 || NLog Synthesizer || 2.1+ || YES || NO || Rolf Wöhrmann || http://itunes.apple.com/us/app/nlog-synthesizer/id306902121?mt=8 ||
+|| iSequence || 1.60+ || YES || NO || Jaroslaw Jacek || http://itunes.apple.com/us/app/isequence/id321412318?mt=8 ||
 
 = Pending apps =
 
