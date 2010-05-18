@@ -14,7 +14,7 @@
 || iSequence || 1.60+ || YES || NO || Jaroslaw Jacek || http://itunes.apple.com/us/app/isequence/id321412318?mt=8 ||
 || Monle || 1.1+ || YES || YES || Ochen K. || http://itunes.apple.com/us/app/monle/id361753555?mt=8 ||
 || Jasuto Pro || 1.1.0+ || YES || YES || Christopher Wolfe || http://itunes.apple.com/us/app/jasuto-pro-modular-synthesizer/id347758682?mt=8 ||
-
+|| FourTrack || 3.1.3+ || YES || YES || Sonoma Wire Works || http://itunes.apple.com/us/app/fourtrack/id294768646?mt=8 ||
 = Pending apps =
 
 || *Application* || *Company* ||
