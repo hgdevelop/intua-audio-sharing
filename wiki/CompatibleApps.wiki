@@ -17,6 +17,7 @@
 || FourTrack || 3.1.3+ || YES || YES || Sonoma Wire Works || http://itunes.apple.com/us/app/fourtrack/id294768646?mt=8 ||
 || StudioTrack || 1.2+ || YES || YES || Sonoma Wire Works || http://itunes.apple.com/us/app/studiotrack/id362370888?mt=8 ||
 || Reforge || 1.16+ || YES || YES || Tibor Horvath || http://itunes.apple.com/us/app/reforge/id363287750?mt=8 ||
+|| MultiTrack DAW || 2.0+ || YES || YES || Harmonicdog || http://itunes.apple.com/us/app/multitrack-daw/id329322101?mt=8 ||
 
 = Pending apps =
 
