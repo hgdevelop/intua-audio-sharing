@@ -23,7 +23,6 @@
 = Pending apps =
 
 || *Application* || *Company* ||
-|| MultiTrack || Harmonicdog ||
 || Noise.IO Pro || Amidio ||
 || InstantBeat || Instant Binary AB ||
 
