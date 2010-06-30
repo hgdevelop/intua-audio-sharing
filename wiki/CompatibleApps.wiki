@@ -18,6 +18,7 @@
 || StudioTrack || 1.2+ || YES || YES || Sonoma Wire Works || http://itunes.apple.com/us/app/studiotrack/id362370888?mt=8 ||
 || Reforge || 1.16+ || YES || YES || Tibor Horvath || http://itunes.apple.com/us/app/reforge/id363287750?mt=8 ||
 || MultiTrack DAW || 2.0+ || YES || YES || Harmonicdog || http://itunes.apple.com/us/app/multitrack-daw/id329322101?mt=8 ||
+|| FunkBox Drum Machine || 1.3+ || YES || NO || Synthetic Bits || http://itunes.apple.com/us/app/funkbox-drum-machine/id350437349?mt=8 ||
 
 = Pending apps =
 
