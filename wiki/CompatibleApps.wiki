@@ -1,7 +1,7 @@
 #summary List of application implementing the audio UIPasteboard standard
 #labels Featured
 
-= Ccompatible apps =
+= Compatible apps =
 
 || *Application* || *Compatible version* || *Copy* || *Paste* || *Company* || *App Store link * ||
 || BeatMaker || 1.3.5+ || YES || YES || INTUA || http://itunes.apple.com/us/app/beatmaker/id285512415?mt=8 ||
