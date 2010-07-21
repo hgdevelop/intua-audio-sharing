@@ -20,11 +20,11 @@
 || MultiTrack DAW || 2.0+ || YES || YES || Harmonicdog || http://itunes.apple.com/us/app/multitrack-daw/id329322101?mt=8 ||
 || FunkBox Drum Machine || 1.3+ || YES || NO || Synthetic Bits || http://itunes.apple.com/us/app/funkbox-drum-machine/id350437349?mt=8 ||
 || ELECTRIFY || 2.0.0+ || YES || YES || Ingolf Koch || http://itunes.apple.com/us/app/electrify/id368419081?mt=8 ||
+|| Noise.io Pro Synth || 1.4.6+ || YES || NO || Amidio Inc || http://itunes.apple.com/us/app/noise-io-pro-synth/id294767228?mt=8 ||
 
 = Pending apps =
 
 || *Application* || *Company* ||
-|| Noise.IO Pro || Amidio ||
 || InstantBeat || Instant Binary AB ||
 
 List initially built thanks to the Palm Sound blog [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
