@@ -24,10 +24,6 @@
 || bleep!BOX || 1.3.0+ || YES || NO || David Wallin || http://itunes.apple.com/us/app/bleep-box/id325451639?mt=8 ||
 || iVoxel || 1.0+ || YES || NO || VirSyn Software Synthesizer || http://itunes.apple.com/us/app/ivoxel/id382428641?mt=8 ||
 || Mixtikl || 2.2.0.21+ || NO || YES || Intermorphic Limited || http://itunes.apple.com/us/app/mixtikl-2-generative-music/id347409277?mt=8 ||
+|| NanoStudio || 1.1+ || YES || YES || Blip Interactive Ltd || http://itunes.apple.com/us/app/nanostudio/id382263651?mt=8 ||
 
-= Pending apps =
-
-|| *Application* || *Company* ||
-|| InstantBeat || Instant Binary AB ||
-
-List initially built thanks to the Palm Sound blog [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
+_List initially built thanks to the Palm Sound blog:_ [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
