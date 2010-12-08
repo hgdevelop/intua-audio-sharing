@@ -25,5 +25,6 @@
 || iVoxel || 1.0+ || YES || NO || VirSyn Software Synthesizer || http://itunes.apple.com/us/app/ivoxel/id382428641?mt=8 ||
 || Mixtikl || 2.2.0.21+ || NO || YES || Intermorphic Limited || http://itunes.apple.com/us/app/mixtikl-2-generative-music/id347409277?mt=8 ||
 || NanoStudio || 1.1+ || YES || YES || Blip Interactive Ltd || http://itunes.apple.com/us/app/nanostudio/id382263651?mt=8 ||
+|| Filtatron || 1.0+ || YES || NO || Moog Music Inc. || http://itunes.apple.com/ch/app/filtatron/id396776418?mt=8 ||
 
 _List initially built thanks to the Palm Sound blog:_ [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
