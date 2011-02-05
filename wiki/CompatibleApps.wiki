@@ -1,4 +1,4 @@
-#summary List of application implementing the audio UIPasteboard standard
+#summary List of applications implementing the audio UIPasteboard standard
 #labels Featured
 
 = Compatible apps =
