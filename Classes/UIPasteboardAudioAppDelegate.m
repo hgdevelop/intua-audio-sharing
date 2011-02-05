@@ -51,6 +51,7 @@ static void AddInfoToString(const void *_key, const void *_value, void *_context
 	UIAlertView* alert = [[UIAlertView alloc] initWithTitle:@"UIPasteboardAudio" message:message 
 																									delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
 	[alert show];
+  [alert release];
 }
 
 #pragma mark -
@@ -60,7 +61,7 @@ static void AddInfoToString(const void *_key, const void *_value, void *_context
 - (IBAction) doCopyButton {
 	NSString *tmpPath = NSTemporaryDirectory();
 	UIPasteboard *board = [UIPasteboard generalPasteboard];
-	NSString *srcPath = [[NSBundle mainBundle] pathForResource:@"sample" ofType:@"wav"];		
+	NSString *srcPath = [[NSBundle mainBundle] pathForResource:@"sample" ofType:@"wav"];
 	NSString *dstPath = [NSString stringWithFormat:@"%@sample.wav", tmpPath];
 
 	// Copy file to temp directory (in case we need write access to the file)
@@ -202,11 +203,12 @@ static void AddInfoToString(const void *_key, const void *_value, void *_context
 		} break;
 			
 		default: {
+      [fmt release];
 			[self showAlert:@"Not a WAVE of AIFF file"];
 			return;
 		} break;
 	}
-	
+  
 	// Get Name, BPM, ...
 	err = AudioFileGetPropertyInfo(audioFileID, kAudioFilePropertyInfoDictionary, &size, NULL);
 	if (err != noErr) {
