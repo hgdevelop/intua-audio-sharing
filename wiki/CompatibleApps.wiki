@@ -5,6 +5,7 @@
 
 || *Application* || *Compatible version* || *Copy* || *Paste* || *Company* || *App Store link * ||
 || BeatMaker || 1.3.5+ || YES || YES || INTUA || http://itunes.apple.com/us/app/beatmaker/id285512415?mt=8 ||
+|| BeatMaker 2 || 2.0+ || YES || YES || INTUA || http://itunes.apple.com/us/app/beatmaker-2/id417020234?mt=8 ||
 || BassLine || 2.1+ || YES || NO || Markus Waldboth || http://itunes.apple.com/us/app/bassline/id298147000?mt=8 ||
 || DrumTrack8 || 1.8+ || YES || NO || Simple Is Beautiful || http://itunes.apple.com/us/app/drumtrack8/id313153702?mt=8 ||
 || AudioView || 1.1+ || YES || YES || Tibor Horvath || http://itunes.apple.com/us/app/audioview/id333216367?mt=8 ||
