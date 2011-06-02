@@ -34,6 +34,6 @@
 || Report-IT Enterprise Edition ||  3.0.1+ || YES || YES || Tieline Technology || http://itunes.apple.com/us/app/report-it-enterprise-edition/id384091752?mt=8 || 
 || SynthTronica ||  1.0.2+ || YES || YES || Leisuresonic || http://itunes.apple.com/us/app/synthtronica/id376447369?mt=8 ||
 || VoiceJam || 1.2.0+ || YES || YES || TC-Helicon Vocal Technologies || http://itunes.apple.com/us/app/voicejam/id409485216?mt=8 ||
-|| GarageBand || 1.0.1+ || YES || YES || Apple Inc. || http://itunes.apple.com/us/app/garageband/id408709785?mt=8 ||
+|| GarageBand || 1.0.1+ || NO || YES || Apple Inc. || http://itunes.apple.com/us/app/garageband/id408709785?mt=8 ||
 
 _List initially built thanks to the Palm Sound blog:_ [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
