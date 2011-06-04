@@ -24,7 +24,7 @@
 || Noise.io Pro Synth || 1.4.6+ || YES || NO || Amidio Inc || http://itunes.apple.com/us/app/noise-io-pro-synth/id294767228?mt=8 ||
 || bleep!BOX || 1.3.0+ || YES || NO || David Wallin || http://itunes.apple.com/us/app/bleep-box/id325451639?mt=8 ||
 || iVoxel || 1.0+ || YES || NO || VirSyn Software Synthesizer || http://itunes.apple.com/us/app/ivoxel/id382428641?mt=8 ||
-|| Mixtikl || 2.2.0.21+ || NO || YES || Intermorphic Limited || http://itunes.apple.com/us/app/mixtikl-2-generative-music/id347409277?mt=8 ||
+|| Mixtikl || 2.2.0.21+ || YES || YES || Intermorphic Limited || http://itunes.apple.com/us/app/mixtikl-2-generative-music/id347409277?mt=8 ||
 || NanoStudio || 1.1+ || YES || YES || Blip Interactive Ltd || http://itunes.apple.com/us/app/nanostudio/id382263651?mt=8 ||
 || Filtatron || 1.0+ || YES || NO || Moog Music Inc. || http://itunes.apple.com/ch/app/filtatron/id396776418?mt=8 ||
 || RicePad || 1.0+ || YES || YES || Alessandro De Nardi || http://itunes.apple.com/us/app/ricepad/id404910862?mt=8 ||
