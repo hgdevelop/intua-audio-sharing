@@ -37,6 +37,6 @@
 || GarageBand || 1.0.1+ || NO || YES || Apple Inc. || http://itunes.apple.com/us/app/garageband/id408709785?mt=8 ||
 || Curtis for iPad || 2.3+ || YES || YES || The Strange Agency LLC || http://itunes.apple.com/us/app/curtis-for-ipad/id384228003?mt=8 ||
 || djay for iPad || 1.4+ || YES || YES || algoriddim GmbH || http://itunes.apple.com/us/app/djay/id382604769?mt=8 ||
-|| djay for iPhone / iPod Touch || 1.2+ || YES || YES || algoriddim GmbH || http://itunes.apple.com/us/app/djay/id382604769?mt=8 ||
+|| djay for iPhone / iPod Touch || 1.2+ || YES || YES || algoriddim GmbH || http://itunes.apple.com/us/app/djay-for-iphone-ipod-touch/id424492403?mt=8 ||
 
 _List initially built thanks to the Palm Sound blog:_ [http://the-palm-sound.blogspot.com/2010/02/audio-sharing-on-iphone.html]
