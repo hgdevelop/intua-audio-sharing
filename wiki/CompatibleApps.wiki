@@ -46,6 +46,7 @@
 || Loopseque || 2.3 || YES || YES || Casual Underground Lab || http://itunes.apple.com/us/app/loopseque/id384127919 ||
 || Loopseque Mini || 2.4 || YES || YES || Casual Underground Lab || http://itunes.apple.com/us/app/loopseque-mini/id406130470 ||
 || Slynthy || 1.3 || YES || YES || Mitchell Cichocki || http://itunes.apple.com/us/app/slynthy/id465445217?mt=8 ||
+|| TweakyBeat || 1.6 || YES || NO || Rodrigo Yanez || http://itunes.apple.com/us/app/tweakybeat/id330051410?mt=8 ||
 
 
 
